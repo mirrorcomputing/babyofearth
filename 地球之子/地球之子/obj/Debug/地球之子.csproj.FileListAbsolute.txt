@@ -1,0 +1,16 @@
+G:\codes\地球之子\地球之子\bin\Debug\地球之子.exe
+G:\codes\地球之子\地球之子\bin\Debug\地球之子.pdb
+G:\codes\地球之子\地球之子\bin\Debug\CSkin.dll
+G:\codes\地球之子\地球之子\bin\Debug\CSkin.xml
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.login.resources
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.Properties.Resources.resources
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.csproj.GenerateResource.Cache
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.exe
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.pdb
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.center.resources
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.csprojResolveAssemblyReference.cache
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.chats.resources
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.earth.resources
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.friends.resources
+G:\codes\地球之子\地球之子\obj\Debug\地球之子.chatlist.resources
+G:\codes\地球之子\地球之子\bin\Debug\地球之子.exe.config

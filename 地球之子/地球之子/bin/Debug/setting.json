@@ -1,0 +1,10 @@
+{
+    "CloseBox":{
+				"CloseDownBack": "img/close2.png",
+			    "CloseNormlBack": "img/close.png"
+				},
+	"MinimizeBox":{
+				"MiniDownBack": "img/min2.png",
+			    "MiniNormlBack": "img/min.png"
+				}		
+}
