@@ -1,0 +1,7 @@
+D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.exe
+D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.pdb
+D:\script runner\DynamicIPServer\DynamicIPServer\obj\Debug\DynamicIPServer.ProjectInstaller.resources
+D:\script runner\DynamicIPServer\DynamicIPServer\obj\Debug\DynamicIPServer.DynamicIPServer.resources
+D:\script runner\DynamicIPServer\DynamicIPServer\obj\Debug\DynamicIPServer.csproj.GenerateResource.Cache
+D:\script runner\DynamicIPServer\DynamicIPServer\obj\Debug\DynamicIPServer.exe
+D:\script runner\DynamicIPServer\DynamicIPServer\obj\Debug\DynamicIPServer.pdb

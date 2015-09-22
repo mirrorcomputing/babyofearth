@@ -1,0 +1,13 @@
+﻿正在安装程序集“D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.InstallLog
+   assemblypath = D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.exe
+正在安装服务 DynamicIPServer...
+已成功安装服务 DynamicIPServer。
+正在日志 Application 中创建 EventLog 源 DynamicIPServer...
+正在提交程序集“D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.InstallLog
+   assemblypath = D:\script runner\DynamicIPServer\DynamicIPServer\bin\Debug\DynamicIPServer.exe

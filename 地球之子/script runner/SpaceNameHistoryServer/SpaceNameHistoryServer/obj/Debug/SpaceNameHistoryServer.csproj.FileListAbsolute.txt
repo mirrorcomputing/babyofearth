@@ -1,0 +1,7 @@
+D:\script runner\SpaceNameHistoryServer\SpaceNameHistoryServer\bin\Debug\SpaceNameHistoryServer.exe
+D:\script runner\SpaceNameHistoryServer\SpaceNameHistoryServer\bin\Debug\SpaceNameHistoryServer.pdb
+D:\script runner\SpaceNameHistoryServer\SpaceNameHistoryServer\obj\Debug\SpaceNameHistoryServer.csprojResolveAssemblyReference.cache
+D:\script runner\SpaceNameHistoryServer\SpaceNameHistoryServer\obj\Debug\SpaceNameHistoryServer.ProjectInstaller.resources
+D:\script runner\SpaceNameHistoryServer\SpaceNameHistoryServer\obj\Debug\SpaceNameHistoryServer.csproj.GenerateResource.Cache
+D:\script runner\SpaceNameHistoryServer\SpaceNameHistoryServer\obj\Debug\SpaceNameHistoryServer.exe
+D:\script runner\SpaceNameHistoryServer\SpaceNameHistoryServer\obj\Debug\SpaceNameHistoryServer.pdb

@@ -1,0 +1,5 @@
+D:\script runner\translate\translate\obj\Debug\translate.csprojResolveAssemblyReference.cache
+D:\script runner\translate\translate\bin\Debug\translate.exe
+D:\script runner\translate\translate\bin\Debug\translate.pdb
+D:\script runner\translate\translate\obj\Debug\translate.exe
+D:\script runner\translate\translate\obj\Debug\translate.pdb

@@ -1,0 +1,6 @@
+D:\script runner\KingServer\KingServer\bin\Debug\KingServer.exe
+D:\script runner\KingServer\KingServer\bin\Debug\KingServer.pdb
+D:\script runner\KingServer\KingServer\obj\Debug\KingServer.ProjectInstaller.resources
+D:\script runner\KingServer\KingServer\obj\Debug\KingServer.csproj.GenerateResource.Cache
+D:\script runner\KingServer\KingServer\obj\Debug\KingServer.exe
+D:\script runner\KingServer\KingServer\obj\Debug\KingServer.pdb
